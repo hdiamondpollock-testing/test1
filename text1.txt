@@ -2,6 +2,6 @@ This is an example for the GitHub User Guide
 
 Test change. 
 
-Test change2
+Test change2.
 
 To merge into master
